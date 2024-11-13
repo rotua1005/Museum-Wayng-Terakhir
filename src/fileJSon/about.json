@@ -1,0 +1,29 @@
+{
+    "profile_list": [
+        {
+            "nama": "David Bate'e",
+            "photo_url": "https://i.pinimg.com/originals/56/72/2a/56722a84d93d7a8a460060460bb0667f.jpg",
+            "jurusan": "Teknik Informatika"
+        },
+        {
+            "nama": "Geby Ginting",
+            "photo_url": "https://i.pinimg.com/736x/c5/6f/43/c56f43ec88c39cfaa810d4d085367a8c.jpg",
+            "jurusan": "Teknik Informatika"
+        },
+        {
+            "nama": "Rotua Sitorus",
+            "photo_url": "https://i.pinimg.com/originals/c6/86/f1/c686f110de08d33b8ceec0f816de0237.jpg",
+            "jurusan": "Teknik Informatika"
+        },
+        {
+            "nama": "Grace Hutagaol",
+            "photo_url": "https://i.pinimg.com/736x/e7/8b/ea/e78bea0ec2c4e2bee5f835cd8104517a.jpg",
+            "jurusan": "Teknik Informatika"
+        },
+        {
+            "nama": "Mila Limbong",
+            "photo_url": "https://i.pinimg.com/736x/58/bf/fa/58bffac528aef4f1f96a7b4efa8e8290.jpg",
+            "jurusan": "Teknik Informatika"
+        }
+    ]
+}
